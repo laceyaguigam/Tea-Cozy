@@ -30,15 +30,31 @@ nav {
 }
 
 /* Mission Section */
-
+main {
+    padding-top: 69px;
+}
 /* Tea of the Month Section */
 
-.images {
+.blitz {
     height: 200px;
     width: 300px;
- 
 }
-
+.spiced {
+    height: 200px;
+    width: 300px;
+}
+.donut {
+    height: 200px;
+    width: 300px;
+}
+.myrtle {
+    height: 200px;
+    width: 300px;
+}
+.bizare {
+    height: 200px;
+    width: 300px;
+}
 /* Location Section */
 
 /* Footer */
