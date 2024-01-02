@@ -5,6 +5,7 @@
     font-size: 22px;
     color: seashell;
     background-color: black;
+    opacity: 0.9;
     text-align: center;
 }
 
@@ -14,6 +15,8 @@
 /* Header */
 
 .logo {
+   height: 50px;
+   float: left;
    
 }
 
