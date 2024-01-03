@@ -27,6 +27,7 @@ header {
 
 nav {
  float: right;
+ border-bottom: 1px solid seashell;
 }
 
 /* Mission Section */
