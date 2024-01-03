@@ -35,7 +35,10 @@ main {
     padding-top: 69px;
 }
 /* Tea of the Month Section */
-
+.tea-images {
+    width: 1000px;
+    
+}
 .blitz {
     height: 200px;
     width: 300px;
@@ -52,10 +55,18 @@ main {
     height: 200px;
     width: 300px;
 }
-.bizare {
+.bizarre {
     height: 200px;
     width: 300px;
 }
 /* Location Section */
 
 /* Footer */
+footer {
+    height: 200px;
+}
+
+.copyright {
+    text-align: left;
+    padding-left: 20px;
+}
