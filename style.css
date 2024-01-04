@@ -1,11 +1,8 @@
-
-
 * {
     font-family: Helvetica;
     font-size: 22px;
     color: seashell;
     background-color: black;
-    /* opacity: 0.9; */
     text-align: center;
 }
 
@@ -36,16 +33,27 @@ header {
 
 /* Mission Section */
 main {
-    
+    /* position: relative; */
     
 }
 
 .mission {
     /* position: absolute; */
     align-items: center;
-   
+    /* opacity: 0.9; */
+    height: 700px;
+    width: 1200px;
 
 } 
+
+.mission-container {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -95%); 
+    width:1200px;
+    
+}
 /* Tea of the Month Section */
 .tea-images {
     width: 1000px;
