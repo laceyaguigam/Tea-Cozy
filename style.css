@@ -5,7 +5,7 @@
     font-size: 22px;
     color: seashell;
     background-color: black;
-    opacity: 0.9;
+    /* opacity: 0.9; */
     text-align: center;
 }
 
@@ -15,8 +15,16 @@
 /* Header */
 
 header {
-    position: fixed;
+    /* position: fixed; */
     width: 100%;
+    border-bottom: 1px solid seashell;
+    height: 69px;
+    position: fixed;
+}
+
+.nav {
+    float: right;
+    padding-right: 20px;
 }
 
 .logo {
@@ -25,15 +33,19 @@ header {
    padding-left: 10px;
 }
 
-nav {
- float: right;
- border-bottom: 1px solid seashell;
-}
 
 /* Mission Section */
 main {
-    padding-top: 69px;
+    
+    
 }
+
+.mission {
+    /* position: absolute; */
+    align-items: center;
+   
+
+} 
 /* Tea of the Month Section */
 .tea-images {
     width: 1000px;
