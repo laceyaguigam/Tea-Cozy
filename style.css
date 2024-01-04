@@ -81,9 +81,42 @@ main {
 }
 /* Location Section */
 
+.locations {
+
+}
+
+.location-background {
+    height: 500px;
+    width: 1200px;
+}
+
+.downtown {
+    height: 300px;
+    width: 300px;
+   
+}
+
+.bayside {
+    height: 300px;
+    width: 300px;
+}
+
+.oakdale {
+    height: 300px;
+    width: 300px;
+}
+
+/* Contact Section*/
+
+.contact {
+    height: 200px;
+    align-items: center;
+}
+
+
 /* Footer */
 footer {
-    height: 200px;
+    
 }
 
 .copyright {
